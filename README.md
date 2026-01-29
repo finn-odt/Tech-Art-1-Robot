@@ -1,2 +1,6 @@
 # Tech-Art-1-Robot
-Robot model with rig, animation in a unity environment for Tech Art 1 course at HDA, Semester 1.
+
+## Contents
+- Robot modellled in Blender, rigged and animated in Maya
+  - has Character Controller with moving Camera
+- Environment with Terrain, Plants and roman houses (and a temple)
